@@ -1,3 +1,3 @@
 # Cprograms
-The old days
-My deep dive to coding started here.
+The old days,
+my deep dive to coding started here.
